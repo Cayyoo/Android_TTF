@@ -1,0 +1,122 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    tools:context=".MainActivity" >
+
+    <TextView
+        android:id="@+id/ttf_1"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/ttf_1" />
+
+    <TextView
+        android:id="@+id/ttf_2"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/ttf_2" />
+
+    <TextView
+        android:id="@+id/ttf_3"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/ttf_3" />
+
+    <TextView
+        android:id="@+id/ttf_4"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/ttf_4" />
+
+    <TextView
+        android:id="@+id/ttf_5"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/ttf_5" />
+
+    <TextView
+        android:id="@+id/ttf_6"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/ttf_6" />
+
+    <TextView
+        android:id="@+id/ttf_7"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/ttf_7" />
+
+    <TextView
+        android:id="@+id/ttf_8"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/ttf_8" />
+
+    <TextView
+        android:id="@+id/ttf_9"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/ttf_9" />
+
+    <TextView
+        android:id="@+id/ttf_10"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/ttf_10" />
+
+    <TextView
+        android:id="@+id/ttf_11"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/ttf_11" />
+
+    <TextView
+        android:id="@+id/ttf_12"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/ttf_12" />
+
+    <TextView
+        android:id="@+id/ttf_13"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/ttf_13" />
+
+    <TextView
+        android:id="@+id/ttf_14"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/ttf_14" />
+
+    <TextView
+        android:id="@+id/ttf_15"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/ttf_15" />
+
+    <TextView
+        android:id="@+id/ttf_16"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/ttf_16" />
+
+    <TextView
+        android:id="@+id/ttf_17"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/ttf_17" />
+
+    <TextView
+        android:id="@+id/ttf_18"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/ttf_18" />
+
+    <TextView
+        android:id="@+id/ttf_19"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/ttf_19" />
+
+</LinearLayout>
